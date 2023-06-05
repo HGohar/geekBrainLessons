@@ -4,3 +4,13 @@
 2. To create a local repository
 3. To create a remote repositori
 4. To connect local and remote repositories
+
+
+
+To add the remote rep to the project:
+
+```
+
+git remote <add the name of rep> and than add<the link of rep>
+
+```
