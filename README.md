@@ -12,3 +12,10 @@ To add the remote rep o the project:
 git remote <add the name of rep> <the link of rep>
 
 ```
+
+To get the changes and merge with remote rep, use the following command
+
+```
+git pull 
+
+```
